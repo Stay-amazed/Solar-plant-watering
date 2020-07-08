@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-07-08T13:19:23Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "solar plant watering alarm 2"
+        },
+        "Owner": "Malaviga Dinakar <malavigadinakar@gmail.com>",
+        "Size": {
+            "X": 38.08,
+            "Y": 36.5
+        }
+    }
+}

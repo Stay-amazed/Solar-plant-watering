@@ -1,0 +1,13 @@
+Partlist exported from C:/Users/JAYADHEVI/Documents/EAGLE/projects/Simple 04-07-20/solar plant watering alarm 2.sch at 08-07-2020 06:49 PM
+
+Qty Value  Device      Package   Parts       Description               MF MPN OC_FARNELL OC_NEWARK POPULARITY SPICEMODEL SPICEPREFIX SPICEPREFIXL
+1          PINHD-1X2   1X02      P1SOLARCELL PIN HEADER                                            98                                            
+1   100E   R-US_0204/5 0204/5    R1          RESISTOR, American symbol                             18                    R                       
+1   10k    R-US_0204/5 0204/5    R3          RESISTOR, American symbol                             18                    R                       
+1   2N2222 2N2222      TO18A     Q2          NPN TRANSISTOR                                        0                                             
+1   2N3904 2N3904      TO92      Q1          NPN TRANSISTOR                                        27                                            
+1   50k    R-TRIMM4G/J RTRIM4G/J R2          Trimm resistor                                        1          X                      POT         
+1   B/C11L B/C11L      B/C11L    BUZ1        BUZZER Source: Buerklin          unknown    unknown   2                                             
+1   Probes PINHD-1X2   1X02      JP1         PIN HEADER                                            98                                            
+1   green  LED3MM      LED3MM    LED2        LED                                                   97                                            
+1   red    LED3MM      LED3MM    LED1        LED                                                   97                                            
